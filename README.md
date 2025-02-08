@@ -1,2 +1,2 @@
 # Incident-Report-Analysis
-An simple Incident Report Analysis
+A simple Incident Report Analysis
